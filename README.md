@@ -26,4 +26,4 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html)
 
 ## Credits
 
-The credits for this code go to [rasbt](https://github.com/rasbt).I've merely created it again and tested to get familier with myself.
+The credits for this code go to [rasbt](https://github.com/rasbt)and Siraj Raval. I've merely created a wrapper around the code and tested to get familiarize with myself.
